@@ -1,4 +1,4 @@
-## Independent
+## Dependent
 * python3 
 * pip 
 * sqlite3
