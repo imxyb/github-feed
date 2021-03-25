@@ -6,6 +6,6 @@ Jinja2==2.11.1
 kaptan==0.5.12
 libtmux==0.8.2
 MarkupSafe==1.1.1
-PyYAML==5.1.2
+PyYAML==5.4
 tmuxp==1.5.3
 Werkzeug==1.0.0
